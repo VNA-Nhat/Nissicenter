@@ -1,0 +1,5 @@
+[build]
+  command = "bash deploy.sh"
+  functions = "lambda"
+  publish = "wordpress"
+  base = "wordpress"
